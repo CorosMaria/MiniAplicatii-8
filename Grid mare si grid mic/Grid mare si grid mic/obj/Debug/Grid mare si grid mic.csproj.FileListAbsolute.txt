@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\bin\Debug\Grid mare si grid mic.exe
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\bin\Debug\Grid mare si grid mic.pdb
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\Grid_mare_si_grid_mic.Form1.resources
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\Grid_mare_si_grid_mic.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\Grid mare si grid mic.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\Grid mare si grid mic.exe
+D:\MARIA\Programare\Aplicatii\Grid mare si grid mic\Grid mare si grid mic\obj\Debug\Grid mare si grid mic.pdb
